@@ -8,32 +8,118 @@
     color: white;
 }
 .Акція{
-
-    font-size: 40px;
-    font-weight:900;
-    position:relative;
-    left: 43%;
-   top:20px;
-   
-}
-.Карусель{
-    
-}
+ font-size: 250%;
+ font-weight:900;
+ position:relative;
+ left: 43%;
+ top:20px;
+   }
 .carousel-item{
-    height: 45%;
-    width: 45%;
-    left: 27%;
+    height: 43%;
+    width: 41%;
+    left: 29%;
    top:20px;
 }
 .carousel-item img{
-    height: 45%;
-    width: 45%;
+    height: 43%;
+    width: 41%;
 }
 .carousel-control-prev{
-    left: 22%;
+    left: 24%;
     top:10%;
 }
 .carousel-control-next{
-    left: 61%;
+    left: 60%;
     top:10%;
+}
+.example-img{
+    width: 100%;
+}
+.Популярні{
+    font-size: 200%;
+    font-weight:900;
+    position:relative;
+    left: 0.2%;
+   top:70px;
+
+}
+.New{
+    font-size: 200%;
+    font-weight:900;
+    position:relative;
+    left: 235%;
+   top: 10px; 
+}
+.row{
+    border: 10px;
+    max-width: 2050px;
+    position: relative;
+    top: 15px;
+    left: 1%;
+
+}
+.Go{
+    border: 10px;
+    max-width: 1810px;
+    position: relative;
+    
+    left: 0.1%;
+}
+.New2{
+    font-size: 200%;
+    font-weight:900;
+    position:relative;
+    left: 165%;
+   top: 10px; 
+}
+.Call{
+    border: 3px solid white;
+    width: 404px;
+    margin: 0px auto;
+    height: 875px;
+    position: relative;
+    top: 85px;
+    right: 24%;
+    box-shadow: 7px 7px 35px 5px #000;
+
+}
+.war{
+    color: yellowgreen;
+    font-size: 25px;
+    font-weight: 500;
+}
+.windows{
+    color: red;
+    font-size: 16px;
+    font-weight: 400;
+}
+.raz{
+    color: yellowgreen;
+    font-size: 19px;
+    font-weight: 500;
+}
+.Опис{
+    position:absolute;
+    top: 27.9%;
+    left: 40%;
+
+}
+.Карусель2{
+    position:relative;
+    left: 15%;
+    bottom: 400px;
+}
+.Кнопки{
+    position:relative;
+    left: 15%;
+    bottom:600px;
+}
+.Харки{
+    position:relative;
+    left: 45%;
+    bottom:300px;
+
+}
+.Харки2{
+ max-width: 570px;
 }
