@@ -11,7 +11,7 @@
     border: 3px solid white;
     width: 405px;
     margin: 0px auto;
-    height: 876px;
+    height: 882px;
     position: relative;
     top: 85px;
     right: 24%;
@@ -19,18 +19,18 @@
 
 }
 .war{
-    color: yellowgreen;
+    color: black;
     font-size: 25px;
     font-weight: 500;
 }
 .windows{
-    color: red;
+    color: black;
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 500;
 }
 .raz{
-    color: yellowgreen;
-    font-size: 19px;
+    color: black;
+    font-size: 21px;
     font-weight: 500;
 }
 .Опис{
@@ -58,12 +58,18 @@
 }
 .int{
     position:absolute;
-    left: 43%;
-    bottom: -300px;
+    left: 15.3%;
+    bottom: -320px;
 }
 .Підпис{
-    max-width: 800px;
+    width: 500px;
     position:absolute;
-    left: 43%;
+    left: 15.3%;
     bottom:-650px;
+}
+.Підпис1{
+    width: 500px;
+    position:absolute;
+    left: 15.3%;
+    bottom:-450px;
 }
