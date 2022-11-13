@@ -1,0 +1,69 @@
+.Menu{
+    color: white;
+}
+.account{
+    color:white ;
+}
+.key{
+    color: white;
+}
+.Call{
+    border: 3px solid white;
+    width: 405px;
+    margin: 0px auto;
+    height: 876px;
+    position: relative;
+    top: 85px;
+    right: 24%;
+    box-shadow: 5px 5px 50px 5px #000;
+
+}
+.war{
+    color: yellowgreen;
+    font-size: 25px;
+    font-weight: 500;
+}
+.windows{
+    color: red;
+    font-size: 16px;
+    font-weight: 400;
+}
+.raz{
+    color: yellowgreen;
+    font-size: 19px;
+    font-weight: 500;
+}
+.Опис{
+    position:absolute;
+    top: 29%;
+    left: 40%;
+
+}
+.example-img{
+    width: 100%;
+}
+.carousel-inner{
+    height: 43%;
+    width: 41%;
+    left: 43%;
+   top:-390px;
+}
+.carousel-control-prev{
+    left: 37.5%;
+    top:-176%;
+}
+.carousel-control-next{
+ left: 74%;   
+ top: -176%;
+}
+.int{
+    position:absolute;
+    left: 43%;
+    bottom: -300px;
+}
+.Підпис{
+    max-width: 800px;
+    position:absolute;
+    left: 43%;
+    bottom:-650px;
+}
