@@ -9,7 +9,7 @@
 }
 .Call{
     border: 3px solid white;
-    width: 24%;
+    width: 21.6%;
     margin: 0px auto;
     height: 32%;
     position: relative;
@@ -26,16 +26,14 @@
 .windows{
     color: black;
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 500;
 }
 .raz{
-    color:black;
+    color: black;
     font-size: 21px;
     font-weight: 500;
 }
 .Опис{
-    width: 55%;
-    height:30% ;
     position:absolute;
     top: 29%;
     left: 40%;
@@ -48,24 +46,24 @@
     height: 43%;
     width: 41%;
     left: 43%;
-   top:-360px;
+   top:-390px;
 }
 .carousel-control-prev{
     left: 37.5%;
-    top:95%;
+    top:80%;
 }
 .carousel-control-next{
-    left: 74%;
-    top: 95%;
+ left: 74%;   
+ top: 80%;
 }
 .int{
     position:absolute;
     left: 15.3%;
-    bottom: -350px;
+    bottom: -320px;
 }
 .Підпис{
-    max-width: 800px;
+    width: 500px;
     position:absolute;
     left: 15.3%;
-    bottom:-580px;
+    bottom:-650px;
 }

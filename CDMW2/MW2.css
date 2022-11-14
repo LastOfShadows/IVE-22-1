@@ -50,11 +50,11 @@
 }
 .carousel-control-prev{
     left: 37.5%;
-    top:-176%;
+    top:95%;
 }
 .carousel-control-next{
  left: 74%;   
- top: -176%;
+ top: 95%;
 }
 .int{
     position:absolute;
