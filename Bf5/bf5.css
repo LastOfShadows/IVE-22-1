@@ -9,7 +9,7 @@
 }
 .Call{
     border: 3px solid white;
-    width: 21.6%;
+    width: 24%;
     margin: 0px auto;
     height: 32%;
     position: relative;
@@ -35,9 +35,9 @@
 }
 .Опис{
     position:absolute;
-    top: 29%;
+    top: 29.7%;
     left: 40%;
-
+    max-width: 900px;
 }
 .example-img{
     width: 100%;
@@ -45,16 +45,16 @@
 .carousel-inner{
     height: 43%;
     width: 41%;
-    left: 43%;
+    left: 44%;
    top:-390px;
 }
 .carousel-control-prev{
-    left: 37.5%;
-    top:80%;
+    left: 39%;
+    top:95%;
 }
 .carousel-control-next{
- left: 74%;   
- top: 80%;
+ left: 75%;   
+ top: 95%;
 }
 .int{
     position:absolute;
@@ -65,7 +65,13 @@
     width: 500px;
     position:absolute;
     left: 15.3%;
-    bottom:-650px;
+    bottom:-570px;
+}
+.Підпис1{
+    width: 500px;
+    position:absolute;
+    left: 15.3%;
+    bottom:-450px;
 }
 .GamePie{
     max-width: 50px;

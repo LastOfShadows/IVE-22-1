@@ -37,7 +37,7 @@
     width: 55%;
     height:30% ;
     position:absolute;
-    top: 29%;
+    top: 30%;
     left: 40%;
 
 }
@@ -47,16 +47,16 @@
 .carousel-inner{
     height: 43%;
     width: 41%;
-    left: 43%;
-   top:-360px;
+    left: 45%;
+   top:-400px;
 }
 .carousel-control-prev{
-    left: 37.5%;
-    top:95%;
+    left: 39.7%;
+    top:98%;
 }
 .carousel-control-next{
-    left: 74%;
-    top: 95%;
+    left: 76%;
+    top: 98%;
 }
 .int{
     position:absolute;
@@ -69,3 +69,7 @@
     left: 15.3%;
     bottom:-580px;
 }
+.GamePie{
+    max-width: 50px;
+    max-height: 35px;
+ }
